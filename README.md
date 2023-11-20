@@ -49,5 +49,8 @@ Through the comparative analysis of various machine learning models, significant
 - UCI Machine Learning Repository
 - https://archive.ics.uci.edu/dataset/294/combined+cycle+power+plant
 
+## Note:
+- Use the Jupyter Notebook to open the ipynb files
+
 ---
 
